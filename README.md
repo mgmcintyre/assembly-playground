@@ -36,6 +36,5 @@ NASM is an assembler, there are others. Its syntax is designed to be simple and 
 + https://software.intel.com/en-us/articles/introduction-to-x64-assembly
 + https://www.cs.uaf.edu/2006/fall/cs301/support/x86_64/
 + https://0xax.github.io/archive.html (series of posts on asm)
-+ file:///Users/mgmcintyre/Downloads/x86-64-psABI-r252.pdf
 + https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
 + http://myweb.lmu.edu/dondi/share/sp/nasm64.pdf
