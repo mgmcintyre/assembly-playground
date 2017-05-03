@@ -38,3 +38,4 @@ NASM is an assembler, there are others. Its syntax is designed to be simple and 
 + https://0xax.github.io/archive.html (series of posts on asm)
 + https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
 + http://myweb.lmu.edu/dondi/share/sp/nasm64.pdf
++ https://software.intel.com/sites/default/files/article/402129/mpx-linux64-abi.pdf

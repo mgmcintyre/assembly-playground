@@ -7,7 +7,6 @@ section .data   ; home to initialised variables
     SYS_WRITE   equ     0x2000004   ; 4 is write, 1 is exit
     EXIT_CODE   equ     0           ; we'll use this to exit at the end
     STD_OUT     equ     1           ; special file descriptor values
-
     NEW_LINE    db      0xa, 0x0    ; 0xa is unix LF, 0x0 is null byte
 
 section .bss    ; home to uninitialised variables
